@@ -1,0 +1,10 @@
+2024-08-12 13:44:42 - MQO-Problem - INFO - Logger initialized successfully in file
+2024-08-12 13:44:42 - MQO-Problem - INFO - Data Read Successfully!!!!!!!!!!
+2024-08-12 13:44:42 - MQO-Problem - INFO - Initialized QUBO dictionary
+2024-08-12 13:44:43 - MQO-Problem - INFO - Added cost of each plan to QUBO matrix
+2024-08-12 13:44:44 - MQO-Problem - INFO - Added the cost savings between plans to the QUBO matrix
+2024-08-12 13:44:44 - MQO-Problem - INFO - Penalized non-selection of plans within queries
+2024-08-12 13:44:45 - MQO-Problem - INFO - Created BQM
+2024-08-12 13:44:45 - MQO-Problem - INFO - Sampler initialized
+2024-08-12 14:01:52 - MQO-Problem - ERROR - Sampling failed with error: no embedding found
+2024-08-12 14:01:52 - MQO-Problem - INFO - Sampled the data times

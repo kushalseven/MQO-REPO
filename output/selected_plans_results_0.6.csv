@@ -1,0 +1,4 @@
+multi_query_id,query_id,selected_plans,total_cost
+0,0,q_0_0,-136.0
+0,1,"q_0_1,q_0_11,q_0_12,q_0_14,q_0_16,q_0_18",-136.0
+0,2,"q_0_2,q_0_20,q_0_21",-136.0

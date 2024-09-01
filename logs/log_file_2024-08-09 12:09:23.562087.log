@@ -1,0 +1,8 @@
+2024-08-09 12:09:23 - MQO-Problem - INFO - Logger initialized successfully in file
+2024-08-09 12:09:23 - MQO-Problem - INFO - Data Read Successfully!!!!!!!!!!
+2024-08-09 12:09:23 - MQO-Problem - INFO - Initialized QUBO dictionary
+2024-08-09 12:09:33 - MQO-Problem - INFO - Added cost of each plan to QUBO matrix
+2024-08-09 12:09:50 - MQO-Problem - INFO - Added the cost savings between plans to the QUBO matrix
+2024-08-09 12:09:50 - MQO-Problem - INFO - Added the penalty to enforce selection of exactly K queries
+2024-08-09 12:10:27 - MQO-Problem - INFO - created auxillary variables to count selected queries per multi query
+2024-08-09 12:10:43 - MQO-Problem - INFO - Created BQM
